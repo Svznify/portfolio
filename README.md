@@ -24,8 +24,8 @@ Clone and run locally:
 ```bash
 git clone https://github.com/vampelium/vampelium-about-me.git
 cd vampelium-about-me
-npm install
-npm start
+npm install ("no need")
+npm start ("no need")
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser.
