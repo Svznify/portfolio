@@ -39,13 +39,13 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Cloudflare Pages
 
-1. Push this repo to your GitHub account.
+1. Fork this repo to your GitHub account.
 2. Go to [Cloudflare Pages](https://pages.cloudflare.com/) and create a new project.
 3. Connect your GitHub repository.
 4. Set build settings:
    - Framework preset: `None`
-   - Build command: `npm run build` (if available)
-   - Output directory: `dist` or `build`
+   - Build command: ``
+   - Output directory: `public`
 5. Add environment variable:
    - Key: `SECURITY_KEY`
    - Value: *(your secret)*
@@ -100,3 +100,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 For support or business inquiries: [business@vampelium.com](mailto:business@vampelium.com)
 Fork it, star it, or open a pull request!  
+
