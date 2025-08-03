@@ -28,6 +28,8 @@ npm install (no need)
 npm start (no need)
 ```
 
+Use Live Server to View Pages, since there's no node.js
+
 Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
